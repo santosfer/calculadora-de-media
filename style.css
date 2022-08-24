@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('https://blog.estacio.br/wp-content/uploads/2020/06/concluir-a-faculdade.jpg');
+    background-color: #DDA0DD;
+    background-size: 100%;
+    background-position: left; 
+    background-repeat: repeat;
+  }
+  
+  .container {
+    text-align: left;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:#ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#eeeeee;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 155px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  input {
+    margin: 2px;
+    padding: 3px;
+    border-radius: 5px;
+    width: 40px;
+  }
+  
+  label {
+    color: rgb(240, 235, 235);
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    border: none;
+    background: #2323c2;
+    font-family: 'Roboto Mono',monospace;
+    
+  }
+  h2 {
+    color: #000000;
+    font-size: 20px;
+  }
