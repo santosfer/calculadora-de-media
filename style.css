@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto Mono',monospace;
     min-height: 400px;
     background-image: url('https://blog.estacio.br/wp-content/uploads/2020/06/concluir-a-faculdade.jpg');
-    background-color: #DDA0DD;
+    background-color: #6c49df;
     background-size: 100%;
     background-position: left; 
     background-repeat: repeat;
@@ -48,13 +48,25 @@ body {
   
   button {
     margin-top: 12px;
-    padding: 4px 8px;
-    border-radius: 10px;
+    padding: 8px 16px;
+    border-radius: 7px;
     border: none;
-    background: #2323c2;
+    background: #6060bd;
     font-family: 'Roboto Mono',monospace;    
+    color:#ffffff
   }
+
+  button:hover {
+    color: #000000;
+  }
+
+  button:active{
+    color: aqua;
+  }
+
   h2 {
     color: #000000;
-    font-size: 20px;
+    font-size: 22px;
   }
+
+  
