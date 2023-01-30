@@ -11,6 +11,11 @@
 
 <a href=https://santosfer.github.io/calculadora-de-media/>Acesse o projeto aqui</a>
 
+<div style="display: inline_block">
+
+<img src="imagem/aprovado.jpg" width=50%><img src="imagem/reprovado.jpg" width= 50%>
+</div>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
