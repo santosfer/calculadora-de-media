@@ -11,9 +11,9 @@
 
 <a href=https://santosfer.github.io/calculadora-de-media/>Acesse o projeto aqui</a>
 
-<div style="display: inline_block">
+<div style="display: flex">
 
-<img src="imagem/aprovado.jpg" width=50%><img src="imagem/reprovado.jpg" width= 50%>
+<img src="imagem/aprovado.jpg" width=30%><img src="imagem/reprovado.jpg" width= 30%>
 </div>
 
 <div style="display: inline_block"><br>
