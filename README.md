@@ -7,8 +7,9 @@
 
 <h2>O projeto</h2>
 <h3>Calculadora de Média</h3>
-<p>Esse foi um dos primeiros projetos desenvolvido em aula, utilizando foco principal no JavaScript para calcular uma média de notas.</p>
-<p>https://santosfer.github.io/calculadora-de-media/</p>
+<p>Esse foi um dos primeiros projetos desenvolvido em aula, utilizando foco principal no JavaScript para calcular uma média de notas e aparecer mensagem dferente caso a pessoa tenha sido aprovada ou não.</p>
+
+<a href=https://santosfer.github.io/calculadora-de-media/>Acesse o projeto aqui</a>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
